@@ -63,7 +63,7 @@ The location picker is built from Globalping probe data and supports more than j
 - Countries and US states
 - Cities
 - Providers and ASNs
-- Network types like `eyeball` and `datacenter`
+- Network types like `eyeball-network` and `datacenter-network`
 - Cloud filters such as `aws+europe`, `aws-us-east-1`, `gcp-europe-west3`,`oracle+europe` or `azure-eastus`
 
 ## Notes
